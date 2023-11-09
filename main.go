@@ -116,7 +116,7 @@ func secondGuesssSequenceWhenOriginalDoorPickWasCorrect(userGuessWhichIsAlsoCorr
 		fmt.Println("..........")
 		fmt.Println("you'reeee.........")
 
-		println("Correct! you win!!!")
+	
 
 	case "n":
 		fmt.Println("bold choice!")
