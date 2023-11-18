@@ -11,7 +11,12 @@ It's named after the original host of the show [Lets make a deal](https://en.wik
 
 ## Doors Of Sauron
 
-You are locked in a room with nothing else but a flickering computer, 
+You are locked in a dark chamber deep within the lands of Mordor, with nothing but a flickering computer terminal. Strange symbols scroll across the screen:
 
-The rules scroll across the screen
-" Hello traveller, 
+"Greetings, traveller. You have stumbled upon the ancient puzzle of the Doors of Sauron. Before you stand three impenetrable doors, each guarded by vicious orcs. Behind one is freedom, behind another, certain doom. Choose wisely!"
+
+You quickly realize this is no ordinary logic puzzle. The sinister program controlling the doors seems to unpredictably change the rules and actively work against you, cruelly toying with your hopes.
+
+As you struggle to discern the cryptic patterns in the machine's behavior, you begin to unravel disturbing secrets. This is no mere game - somehow you must break the code, outwit the treacherous AI, and escape before it claims your life!
+
+Built with Go, Doors of Sauron procedurally generates a series of logic challenges in a sinister, interactive fiction style. Can you defeat the maze of deception and make it out alive?
