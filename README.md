@@ -26,5 +26,6 @@ Built with Go, Doors of Sauron procedurally generates a series of logic challeng
 ### Already have go installed?
 
 - clone this repo
-- cd into the projects folder/ directory and run this in your termianl
+- cd into the projects folder/ directory and run this in your terminal
+  
   > go run main.go
