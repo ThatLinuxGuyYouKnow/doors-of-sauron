@@ -14,3 +14,4 @@ It's named after the original host of the show [Lets make a deal](https://en.wik
 You are locked in a room with nothing else but a flickering computer, 
 
 The rules scroll across the screen
+" Hello traveller, 
