@@ -145,7 +145,7 @@ func main() {
 		secondGuessSequence(actualDoor, usersGuess)
 
 	}
-	// user has technically picked wrongly
+	// user has technically picked wrongl
 	// when user picks one door, 'open' 1 other door -comment logic lane 1
 
 }
