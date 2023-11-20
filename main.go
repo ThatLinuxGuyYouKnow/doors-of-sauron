@@ -146,6 +146,6 @@ func main() {
 
 	}
 	// user has technically picked wrongly
-	// when user picks one door, 'open' 1 other door -comment logic lane 1
+	// when user picks one door, 'open' 1 other door -comment logic lane 1,
 
 }
