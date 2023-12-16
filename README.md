@@ -7,7 +7,7 @@ A fun take on the Monty Hall problem, written in Golang
 
 It's named after the original host of the show [Lets make a deal](https://en.wikipedia.org/wiki/Let%27s_Make_a_Deal)
 
-[### How it works]([url](https://en.wikipedia.org/wiki/Monty_Hall_problem)https://en.wikipedia.org/wiki/Monty_Hall_problem)
+[How it works]([url](https://en.wikipedia.org/wiki/Monty_Hall_problem)https://en.wikipedia.org/wiki/Monty_Hall_problem)
 
 ## Doors Of Sauron
 
