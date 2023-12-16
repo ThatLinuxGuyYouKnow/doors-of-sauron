@@ -13,7 +13,7 @@ It's named after the original host of the show [Lets make a deal](https://en.wik
 
 You are locked in a dark chamber deep within the lands of Mordor, with nothing but a flickering computer terminal. Strange symbols scroll across the screen:
 
-"Greetings, traveller. You have stumbled upon the ancient puzzle of the Doors of Sauron. Before you stand three impenetrable doors, each guarded by vicious orcs. Behind one is freedom, behind another, certain doom. Choose wisely!"
+"Greetings, traveller. You have stumbled upon the ancient puzzle of the Doors of Sauron. Before you stand three impenetrable doors, each guarded by vicious orcs. Behind one is freedom, behind the others, certain doom. Choose wisely!"
 
 You quickly realize this is no ordinary logic puzzle. The sinister program controlling the doors seems to unpredictably change the rules and actively work against you, cruelly toying with your hopes.
 
