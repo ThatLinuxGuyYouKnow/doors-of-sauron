@@ -1,2 +1,2 @@
-module doors-of-sauron
+module doors-of-sauro
 go 1.21.3
