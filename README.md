@@ -1,5 +1,5 @@
 # doors-of-sauron
-A fun take on the Monty Hall problem, written in Golang
+A fun take on the Monty Hall problem, written in Golang.
 
 # The Monty Hall problem
 
